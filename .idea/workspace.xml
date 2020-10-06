@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2150fb80-6069-47f8-b480-02c9d566085c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/SentinelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/service/TestServcie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhent/md5/study/StudyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhent/md5/study/configuration/MD5AutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhent/md5/study/service/MD5Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhent/md5/study/util/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zhent/md5/study/StudyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/common/ResponseResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/common/ResponseResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/GlobalFeignConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/GlobalFeignConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/NacosWeightedRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/NacosWeightedRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/UserCenterFeignConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/UserCenterFeignConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/UserCenterRibbonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/configuration/UserCenterRibbonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/controller/ContentHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/controller/ContentHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/controller/ShareController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/controller/ShareController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/domain/dto/ShareAuditDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/domain/dto/ShareAuditDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/domain/dto/ShareDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/domain/dto/ShareDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/domain/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/domain/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/feignclient/TestBaiduFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/feignclient/TestBaiduFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/feignclient/TestUserCenterFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/feignclient/TestUserCenterFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/feignclient/UserCenterFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/soft1851/contentcenter/feignclient/UserCenterFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_jar" />
+        <option name="mavenHome" value="E:/tz_study/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\tz_study\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iUsn9UlM9aeRHrK5F9598jV0px" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="md5Test-zhent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhent.md5.study.StudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2150fb80-6069-47f8-b480-02c9d566085c" name="Default Changelist" comment="" />
+      <created>1601973668787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601973668787</updated>
+      <workItem from="1601973682415" duration="77000" />
+      <workItem from="1601973779816" duration="3777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1601987850798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601987850798" />
+    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1601987850798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601987850798" />
+    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1601987850798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601987850798" />
+    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1601987850798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601987850798" />
+  </component>
+</project>
